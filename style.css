@@ -1,0 +1,20 @@
+body {
+  background-color:black;
+}
+img{
+	height: 200px;
+	width: 250px;
+	border-color: aliceblue;
+	border-style: double;
+}
+span{
+	color: aliceblue;
+	padding-left:80px;
+	padding-right:80px;
+}
+h1 {
+  color:aliceblue;
+}
+h4 {
+  color:antiquewhite;
+}
